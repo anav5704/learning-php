@@ -17,4 +17,3 @@ define("HOST", "localhost");
 define("PORT", "8080");
 
 echo HOST, PORT;
-?>
